@@ -335,14 +335,14 @@ footer {
 	}
 
 	.hero-header {
-		font-size: 2.2rem;
-		width: 30rem;
+		font-size: 1.9rem;
+		width: 25rem;
 		line-height: 1.5;
 		margin-bottom: 2rem;
 	}
 
 	.hero-text {
-		font-size: 1.3rem;
+		font-size: 1.2rem;
 		color: var(--Very-Dark-Cyan);
 		margin-bottom: 2rem;
 		line-height: 1.6;
@@ -415,7 +415,7 @@ footer {
 	}
 
 	.footer-list {
-		font-size: 1.8rem;
+		font-size: 1.5rem;
 		font-weight: 500;
 		margin-bottom: 1.7rem;
 	}
@@ -519,7 +519,6 @@ footer {
 	}
 
 	.footer-list {
-		font-size: 1.8rem;
 		font-weight: 500;
 		margin-bottom: 1.7rem;
 	}
@@ -592,10 +591,6 @@ footer {
 
 	.footer-logo {
 		width: 20rem;
-	}
-
-	.footer-list {
-		font-size: 1.7rem;
 	}
 
 	/*! FOOTER */
